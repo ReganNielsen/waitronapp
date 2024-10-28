@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574451792770",
+    "project_id": "thinkninja-c11a3",
+    "storage_bucket": "thinkninja-c11a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574451792770:android:3dcf6c5fcbfddc3f0aed9b",
+        "android_client_info": {
+          "package_name": "com.example.thinkninja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClbF-13X5c4z9LPengeuCjSE0YPZGg7bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
